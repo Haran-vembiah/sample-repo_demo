@@ -1,3 +1,4 @@
 new content
 New line in start
+new content for merge conflict
 Directly added in the master branch
