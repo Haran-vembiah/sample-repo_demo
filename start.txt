@@ -1,2 +1,3 @@
 new content
 New line in start
+Directly added in the master branch
